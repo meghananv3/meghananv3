@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @meghananv3
 - 👀 I’m interested in data analytics and machine learning
-- 🌱 I’m currently learning NLP
--
+- 🌱 I’m currently learning SQL and Python
 - 📫 How to reach me : meghana.da3@iiitmk.ac.in
 
 <!---
